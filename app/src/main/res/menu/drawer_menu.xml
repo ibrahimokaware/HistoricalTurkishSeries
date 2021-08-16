@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/nav_item"
+            android:icon="@drawable/ic_ondemand_video"
+            android:title="@string/all_series"/>
+        <item android:id="@+id/nav_item2"
+            android:icon="@drawable/ic_access_time"
+            android:title="@string/latest"/>
+        <item android:id="@+id/nav_item3"
+            android:icon="@drawable/ic_whatshot"
+            android:title="@string/most"/>
+        <item android:id="@+id/nav_item4"
+            android:icon="@drawable/ic_share"
+            android:title="@string/share"/>
+        <item android:id="@+id/nav_item5"
+            android:icon="@drawable/ic_thumb"
+            android:title="@string/rate"/>
+        <item android:id="@+id/nav_item6"
+            android:icon="@drawable/ic_apps"
+            android:title="@string/apps"/>
+        <item android:id="@+id/nav_item7"
+            android:icon="@drawable/ic_phone"
+            android:title="اتصل بنا"/>
+</menu>

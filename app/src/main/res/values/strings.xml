@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">المسلسلات التركية التاريخية</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="most">الأكثر مشاهدة</string>
+    <string name="latest">أحدث الحلقات</string>
+    <string name="all_series">كل المسلسلات</string>
+    <string name="advantages">مزايا التطبيق</string>
+    <string name="rate">تقييم</string>
+    <string name="contact">اتصل بنا</string>
+    <string name="share">مشاركة</string>
+    <string name="apps">تطبيقاتنا</string>
+    <!--Historical Turkish Series
+    المسلسلات التركية التاريخية-->
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#575F64</color>
+    <color name="colorPrimaryDark">#474F54</color>
+    <color name="colorAccent">#FF6A4D</color>
+    <color name="colorBar">#FAFAFA</color>
+    <color name="colorYalow">#fabe2c</color>
+
+    <color name="dark_brown">#452413</color>
+    <color name="normal_brown">#CB842A</color>
+    <color name="light_brown">#D9A863</color>
+    <color name="light">#fce0a2</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+</resources>
