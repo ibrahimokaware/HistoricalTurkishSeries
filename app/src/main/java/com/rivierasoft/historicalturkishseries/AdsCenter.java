@@ -22,12 +22,12 @@ public class AdsCenter {
 
     public static void loadInterstitialAd(Context context) {
         mInterstitialAd = new InterstitialAd(context);
-        mInterstitialAd.setAdUnitId("ca-app-pub-4431464122007902/5298733994");
+        mInterstitialAd.setAdUnitId("");
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
     }
 
     public static void loadRewardedAd(final Context context) {
-        rewardedAd = new RewardedAd(context, "ca-app-pub-4431464122007902/9622597161");
+        rewardedAd = new RewardedAd(context, "");
 
         RewardedAdLoadCallback adLoadCallback = new RewardedAdLoadCallback() {
             @Override
